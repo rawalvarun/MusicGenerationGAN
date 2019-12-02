@@ -2,7 +2,7 @@
 
 ## Vrawal
 
-1) Make sure visual Studio Code (or VS code) is installed
+1) Make sure visual Studio Code (or VS code) is installed [NOT MANDATORY]
   
 3) create a virtual environment named as "env" with python3 (as python interpreter) in the cloned project<br/>
 ```For Ubuntu: virtualenv -p py3 env```
